@@ -40,7 +40,7 @@ class ViewController: UIViewController {
             self.hintLabel.textColor = attr.textColor
         }
         
-        label.text = "退款成功: 总额^price(¥311.20), 退款将按原支付方式返回, 预计需要1-5个工作日到账. 涉及资金超过^price(¥10万)的, 可能需要多等2日. \n客服电话:^tel(15588889413). \n官方链接:^link(https://weibo.com/xuyunan2011)"
+        label.text = "退款成功: 总额^price(¥311.20), 退款将按原支付方式返回, 预计需要1-5个工作日到账. 涉及资金超过^price(¥10万)的, 可能需要多等2日. \n客服电话:^tel(155xxxx9413). \n官方链接:^link(https://weibo.com/xuyunan2011)"
         self.view.addSubview(label)
         
         // Example 2
