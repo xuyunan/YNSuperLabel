@@ -1,5 +1,7 @@
 # YNSuperLabel
 
+![](https://travis-ci.org/swiftcafex/travisExample.svg?branch=master)
+
 富文本Label
 
 使用特定格式来标记特殊字符, 每种字符都可以通过Closure自定义样式.
