@@ -1,6 +1,7 @@
 # YNSuperLabel
 
-![](https://travis-ci.org/swiftcafex/travisExample.svg?branch=master)
+[![Travis](https://img.shields.io/travis/xuyunan/YNSuperLabel.svg)]()
+[![CocoaPods](https://img.shields.io/cocoapods/v/YNSuperLabel.svg)]()
 
 富文本Label
 
