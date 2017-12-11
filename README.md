@@ -2,6 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/xuyunan/YNSuperLabel.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/v/YNSuperLabel.svg)]()
+[![license](https://img.shields.io/github/license/xuyunan/YNSuperLabel.svg)]()
 
 富文本Label
 
